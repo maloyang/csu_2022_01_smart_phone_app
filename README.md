@@ -11,7 +11,7 @@
 
 ## W02 : 視覺化程式開發元件介紹，基本判斷式
 - 使用元素：圖片，按鈕，TextBox，Layout，PasswordTextBox，Label
-- 
+- [簡報](https://docs.google.com/presentation/d/1Qp84b0sweiLDoEesWbRiHmxqXqoApJyf/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 ## W03 : 數學元件 & 排版
 - TableArrangement、Math計算元件、Text元件
