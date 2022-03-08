@@ -18,22 +18,26 @@
 - 製作加法器、乘法器
 - 計算機
 - 溫度換算
+- [簡報](https://docs.google.com/presentation/d/1ieYG3Xy-6PDEOOc7cdJYq_SMw-tCCmi3/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 ## w04 : if運算元件、for…loop元件
 - 常用的數學元件，進行數字運算，並完成一個猜數字的遊戲
 - 變數：記錄上下限
 - 清單元件
 - 練習: BMI指數
+- [簡報](https://docs.google.com/presentation/d/1crLg8aTLxsior0_F1Z6odrO0wGfGSre_/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 ## w05 : Canvas的畫圖功能
 - notify元件: 猜左右手
 - 簡易小畫家
 - 練習：可換顏色的小畫家
+- [簡報](https://docs.google.com/presentation/d/1USiSMYY9b6qydnKJSU0FBakADHUFHm4D/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 ## w06 : Image, ball元件
 - 滑動、拉動事件
 - 製作動畫
 - 射擊遊戲
+- [簡報](https://docs.google.com/presentation/d/1nGBvU4CkTQaIkBVY4lFuKCaJqmYQ4cMt/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 ## w07 : 射擊遊戲專題
 - 設計不同的圖案
