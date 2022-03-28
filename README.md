@@ -41,13 +41,15 @@
 
 ## w07 : 射擊遊戲專題
 - 設計不同的圖案
-- 
-
-## w08 : 打地鼠一
 - Clock元件
 - Timer元件
+- [簡報](https://docs.google.com/presentation/d/1oZvI6P_PXzqubq3ZvEWWpX3Pe4w0cVPa/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
+
+## w08 : 打地鼠一
 - sound元件
 - Player元件
+- [簡報](https://docs.google.com/presentation/d/1BscFZsV5OkaH5sO084snq50Q32MPfSb0/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
+
 
 ## w09 : 期中考
 
