@@ -45,7 +45,7 @@
 - Timer元件
 - [簡報](https://docs.google.com/presentation/d/1oZvI6P_PXzqubq3ZvEWWpX3Pe4w0cVPa/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
-## w08 : 打地鼠一
+## w08 : 音樂元件
 - sound元件
 - Player元件
 - [簡報](https://docs.google.com/presentation/d/1BscFZsV5OkaH5sO084snq50Q32MPfSb0/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
@@ -59,31 +59,32 @@
 - 製作電子羅盤
 
 
-## w11 : 體感元件
+## w11 (5/2) : 體感元件
 - 軸向元件的使用
 - 平衡球遊戲
-- 進階應用
 
 
-## w12 : 體感遊戲
-- 架構思考
-- 避障滾球遊戲
-
-
-## w13 : QR code 二維條碼
+## w12 (5/9): QR code 二維條碼
 - 產生二維碼
 - 掃描元件
 - 掃碼練習
 
-## w14 : 打地鼠
+
+## w13 (5/20) : 體感遊戲
+- 架構思考
+- 避障滾球遊戲
+
+
+## w14 (5/27) : 遊戲應用二
 - 架構思考
 - 實作
 
 
-## w15 : 整合應用
-- 期末專題架構思考
-- 實作
+## w15 (6/1) : 期末考
+- 上機實作
+- 交期末報告
 
 
-## w16 : 期未考
+## w16 (6/8) : 期未考(最後一堂課，送出成績)
+
 
