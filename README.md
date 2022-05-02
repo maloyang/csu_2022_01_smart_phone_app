@@ -57,17 +57,20 @@
 ## w10 : 電子羅盤
 - 電子羅盤的元件
 - 製作電子羅盤
+- [簡報](https://docs.google.com/presentation/d/1eewz12XdLxYvDuTG9dZxlxSvw9KhZXcE/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 
 ## w11 (5/2) : 體感元件
 - 軸向元件的使用
 - 平衡球遊戲
+- [簡報](https://docs.google.com/presentation/d/1OmFLuwRz26kuAYyu_8iAvnggAXROMQDN/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 
 ## w12 (5/9): QR code 二維條碼
 - 產生二維碼
 - 掃描元件
 - 掃碼練習
+- [簡報](https://docs.google.com/presentation/d/1eXEqCGZginyga8g7WC8PWJFibc_eakOf/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 
 ## w13 (5/20) : 體感遊戲
