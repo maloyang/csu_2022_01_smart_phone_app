@@ -86,6 +86,7 @@
 ## w15 : 期末考
 - 上機實作
 - 交期末報告
+- [說明簡報](https://docs.google.com/presentation/d/1sV2Ps2JSJdU1DvP8jMD2K1bYGTZjMDJi/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
 
 
