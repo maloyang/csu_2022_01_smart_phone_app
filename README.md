@@ -27,7 +27,7 @@
 - 練習: BMI指數
 - [簡報](https://docs.google.com/presentation/d/1crLg8aTLxsior0_F1Z6odrO0wGfGSre_/edit?usp=sharing&ouid=117230101674001164702&rtpof=true&sd=true)
 
-## w05 (10/1): Canvas的畫圖功能
+## w05 (10/1->10/5): Canvas的畫圖功能
 - notify元件: 猜左右手
 - 簡易小畫家
 - 練習：可換顏色的小畫家
